@@ -1,3 +1,3 @@
 # fake-news-classifier
 
-The Dataset used is from kaggle.
+Fake News Classifier using Machine Learning with Natural Language Processing. The Dataset used is from kaggle.
